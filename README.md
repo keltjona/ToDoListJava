@@ -1,2 +1,1 @@
-PLEASE TAKE THIS PROJECT IN CONSIDERATION EVEN THOUGH THE DEADLINE HAS PASSED :/. I REALLY NEED A HIGH GRADE.
-THANK YOU IN ADVANCE BEST PROF. TO EVER EXIST!!!
+This project is a Java-based to-do list application that allows users to add, mark as completed, and delete tasks through a graphical user interface. It uses Swing components for an interactive and scrollable task management experience.
